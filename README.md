@@ -15,7 +15,7 @@
 - **Android:** Kotlin, Java, Jetpack, Firebase, REST API
 - **Python:** Telebot, asyncio, парсинг, API-боты
 - **Инструменты:** Git, Figma, Postman, Firebase Console
-- **Дополнительно:** Markdown, LaTeX, Bash, SQL
+- **Дополнительно:** LaTeX, SQL
 
 ## 🌱 Проекты (будут пополняться)
 
